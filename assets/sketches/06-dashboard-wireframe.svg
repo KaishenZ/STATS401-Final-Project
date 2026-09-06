@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<title>Two-Strike Trap dashboard</title>
+<rect width="960" height="540" fill="#f8fafc"/>
+<text x="40.0" y="42.0" font-size="24" font-weight="600" text-anchor="start" fill="#18212f">Two-Strike Trap dashboard</text>
+<text x="40.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#667085">Linked interaction flow · context → workload → decision → location and outcome</text>
+<rect x="35.0" y="88.0" width="890.0" height="52.0" rx="6" fill="#eef2ff" stroke="#cfd6df" stroke-width="1"/>
+<text x="55.0" y="112.0" font-size="12" font-weight="600" text-anchor="start" fill="#18212f">Pitcher</text>
+<rect x="110.0" y="98.0" width="165.0" height="30.0" rx="4" fill="#f8fafc" stroke="#cfd6df" stroke-width="1"/>
+<text x="125.0" y="118.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Garrett Crochet ▾</text>
+<text x="305.0" y="112.0" font-size="12" font-weight="600" text-anchor="start" fill="#18212f">Count</text>
+<rect x="352.0" y="98.0" width="132.0" height="30.0" rx="4" fill="#f8fafc" stroke="#cfd6df" stroke-width="1"/>
+<text x="367.0" y="118.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Two-strike ▾</text>
+<text x="515.0" y="112.0" font-size="12" font-weight="600" text-anchor="start" fill="#18212f">Batter side</text>
+<rect x="595.0" y="98.0" width="110.0" height="30.0" rx="4" fill="#f8fafc" stroke="#cfd6df" stroke-width="1"/>
+<text x="610.0" y="118.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">All ▾</text>
+<text x="735.0" y="112.0" font-size="12" font-weight="600" text-anchor="start" fill="#18212f">Minimum n</text>
+<rect x="810.0" y="98.0" width="80.0" height="30.0" rx="4" fill="#f8fafc" stroke="#cfd6df" stroke-width="1"/>
+<text x="835.0" y="118.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">30</text>
+<rect x="35.0" y="158.0" width="430.0" height="145.0" rx="6" fill="none" stroke="#cfd6df" stroke-width="1"/>
+<text x="55.0" y="184.0" font-size="15" font-weight="600" text-anchor="start" fill="#18212f">1  Pitcher profile radar</text>
+<circle cx="200.0" cy="238.0" r="48.0" fill="none" fill-opacity="1" stroke="#cfd6df"/>
+<polygon points="200.0,190.0 246.0,223.0 229.0,277.0 171.0,277.0 154.0,223.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2"/>
+<text x="330.0" y="225.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">Select pitcher</text>
+<text x="330.0" y="248.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">Compare profiles</text>
+<rect x="485.0" y="158.0" width="440.0" height="145.0" rx="6" fill="none" stroke="#cfd6df" stroke-width="1"/>
+<text x="505.0" y="184.0" font-size="15" font-weight="600" text-anchor="start" fill="#18212f">2  Pitch-load heatmap</text>
+<rect x="520.0" y="212.0" width="62.0" height="20.0" rx="1" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<rect x="586.0" y="212.0" width="62.0" height="20.0" rx="1" fill="#88a0db" stroke="#f8fafc" stroke-width="1"/>
+<rect x="652.0" y="212.0" width="62.0" height="20.0" rx="1" fill="#94aae0" stroke="#f8fafc" stroke-width="1"/>
+<rect x="718.0" y="212.0" width="62.0" height="20.0" rx="1" fill="#a0b5e5" stroke="#f8fafc" stroke-width="1"/>
+<rect x="784.0" y="212.0" width="62.0" height="20.0" rx="1" fill="#acc0ea" stroke="#f8fafc" stroke-width="1"/>
+<rect x="520.0" y="237.0" width="62.0" height="20.0" rx="1" fill="#718ad2" stroke="#f8fafc" stroke-width="1"/>
+<rect x="586.0" y="237.0" width="62.0" height="20.0" rx="1" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<rect x="652.0" y="237.0" width="62.0" height="20.0" rx="1" fill="#88a0db" stroke="#f8fafc" stroke-width="1"/>
+<rect x="718.0" y="237.0" width="62.0" height="20.0" rx="1" fill="#94aae0" stroke="#f8fafc" stroke-width="1"/>
+<rect x="784.0" y="237.0" width="62.0" height="20.0" rx="1" fill="#a0b5e5" stroke="#f8fafc" stroke-width="1"/>
+<rect x="520.0" y="262.0" width="62.0" height="20.0" rx="1" fill="#6580cd" stroke="#f8fafc" stroke-width="1"/>
+<rect x="586.0" y="262.0" width="62.0" height="20.0" rx="1" fill="#718ad2" stroke="#f8fafc" stroke-width="1"/>
+<rect x="652.0" y="262.0" width="62.0" height="20.0" rx="1" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<rect x="718.0" y="262.0" width="62.0" height="20.0" rx="1" fill="#88a0db" stroke="#f8fafc" stroke-width="1"/>
+<rect x="784.0" y="262.0" width="62.0" height="20.0" rx="1" fill="#94aae0" stroke="#f8fafc" stroke-width="1"/>
+<text x="855.0" y="230.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">metric</text>
+<text x="855.0" y="252.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">toggle</text>
+<rect x="35.0" y="323.0" width="890.0" height="82.0" rx="6" fill="none" stroke="#cfd6df" stroke-width="1"/>
+<text x="55.0" y="349.0" font-size="15" font-weight="600" text-anchor="start" fill="#18212f">3  Count-to-arsenal distribution</text>
+<rect x="260.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="1"/>
+<rect x="350.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="1"/>
+<rect x="440.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="1"/>
+<rect x="530.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="1"/>
+<rect x="620.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="1"/>
+<rect x="710.0" y="360.0" width="72.0" height="22.0" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="1"/>
+<text x="55.0" y="378.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">0-0 → 1-1 → 0-2 → 1-2 → 2-2 → 3-2</text>
+<rect x="35.0" y="425.0" width="430.0" height="82.0" rx="6" fill="none" stroke="#cfd6df" stroke-width="1"/>
+<text x="55.0" y="451.0" font-size="15" font-weight="600" text-anchor="start" fill="#18212f">4  Strike-zone expansion</text>
+<rect x="240.0" y="446.0" width="62.0" height="45.0" rx="0" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+<rect x="315.0" y="446.0" width="62.0" height="45.0" rx="0" fill="#c7d2fe" stroke="#2563eb" stroke-width="1"/>
+<text x="388.0" y="473.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">Heart → Waste</text>
+<rect x="485.0" y="425.0" width="440.0" height="82.0" rx="6" fill="none" stroke="#cfd6df" stroke-width="1"/>
+<text x="505.0" y="451.0" font-size="15" font-weight="600" text-anchor="start" fill="#18212f">5  Movement × Whiff</text>
+<circle cx="690.0" cy="473.0" r="9.0" fill="#2563eb" fill-opacity="0.6" stroke="none"/>
+<circle cx="735.0" cy="464.0" r="14.0" fill="#f59e0b" fill-opacity="0.65" stroke="none"/>
+<circle cx="784.0" cy="482.0" r="7.0" fill="#16a34a" fill-opacity="0.55" stroke="none"/>
+<line x1="250.0" y1="303.0" x2="250.0" y2="323.0" stroke="#2563eb" stroke-width="2"/>
+<line x1="705.0" y1="303.0" x2="705.0" y2="323.0" stroke="#2563eb" stroke-width="2"/>
+<line x1="465.0" y1="260.0" x2="485.0" y2="260.0" stroke="#2563eb" stroke-width="2"/>
+<line x1="465.0" y1="466.0" x2="485.0" y2="466.0" stroke="#2563eb" stroke-width="2"/>
+<text x="920.0" y="518.0" font-size="11" font-weight="400" text-anchor="end" fill="#667085">Low-fidelity sketch</text>
+</svg>

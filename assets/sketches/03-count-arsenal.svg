@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<title>Count-to-arsenal shift</title>
+<rect width="960" height="540" fill="#f8fafc"/>
+<text x="40.0" y="42.0" font-size="24" font-weight="600" text-anchor="start" fill="#18212f">Count-to-arsenal shift</text>
+<text x="40.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#667085">RQ2 · Compare pitch-family distributions across early, two-strike, and full counts</text>
+<line x1="80.0" y1="405.0" x2="730.0" y2="405.0" stroke="#18212f" stroke-width="1.5"/>
+<text x="28" y="265" font-size="13" font-weight="500" text-anchor="middle" fill="#18212f" transform="rotate(-90 28 265)">Usage %</text>
+<line x1="80.0" y1="405.0" x2="730.0" y2="405.0" stroke="#cfd6df" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="67.0" y="409.0" font-size="12" font-weight="400" text-anchor="end" fill="#667085">0</text>
+<line x1="80.0" y1="333.8" x2="730.0" y2="333.8" stroke="#cfd6df" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="67.0" y="337.8" font-size="12" font-weight="400" text-anchor="end" fill="#667085">25</text>
+<line x1="80.0" y1="262.5" x2="730.0" y2="262.5" stroke="#cfd6df" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="67.0" y="266.5" font-size="12" font-weight="400" text-anchor="end" fill="#667085">50</text>
+<line x1="80.0" y1="191.2" x2="730.0" y2="191.2" stroke="#cfd6df" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="67.0" y="195.2" font-size="12" font-weight="400" text-anchor="end" fill="#667085">75</text>
+<line x1="80.0" y1="120.0" x2="730.0" y2="120.0" stroke="#cfd6df" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="67.0" y="124.0" font-size="12" font-weight="400" text-anchor="end" fill="#667085">100</text>
+<rect x="110.0" y="133.2" width="80.0" height="271.8" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="110.0" y="122.8" width="80.0" height="10.5" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="110.0" y="120.0" width="80.0" height="2.8" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="110.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="150.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">0-0</text>
+<rect x="214.0" y="183.8" width="80.0" height="221.2" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="214.0" y="134.8" width="80.0" height="49.0" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="214.0" y="120.0" width="80.0" height="14.8" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="214.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="254.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">1-1</text>
+<rect x="318.0" y="240.2" width="80.0" height="164.8" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="318.0" y="139.5" width="80.0" height="100.7" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="318.0" y="120.0" width="80.0" height="19.5" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="318.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="358.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">0-2</text>
+<rect x="422.0" y="251.6" width="80.0" height="153.4" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="422.0" y="142.7" width="80.0" height="108.9" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="422.0" y="120.0" width="80.0" height="22.7" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="422.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="462.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">1-2</text>
+<rect x="526.0" y="203.6" width="80.0" height="201.4" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="526.0" y="122.1" width="80.0" height="81.4" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="526.0" y="120.0" width="80.0" height="2.1" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="526.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="566.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">2-2</text>
+<rect x="630.0" y="143.4" width="80.0" height="261.6" rx="0" fill="#2563eb" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="630.0" y="120.0" width="80.0" height="23.4" rx="0" fill="#f59e0b" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="630.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#16a34a" stroke="#f8fafc" stroke-width="0.5"/>
+<rect x="630.0" y="120.0" width="80.0" height="0.0" rx="0" fill="#667085" stroke="#f8fafc" stroke-width="0.5"/>
+<text x="670.0" y="430.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">3-2</text>
+<rect x="780.0" y="120.0" width="18.0" height="18.0" rx="0" fill="#2563eb" stroke="none" stroke-width="1"/>
+<text x="808.0" y="134.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Fastball</text>
+<rect x="780.0" y="152.0" width="18.0" height="18.0" rx="0" fill="#f59e0b" stroke="none" stroke-width="1"/>
+<text x="808.0" y="166.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Breaking</text>
+<rect x="780.0" y="184.0" width="18.0" height="18.0" rx="0" fill="#16a34a" stroke="none" stroke-width="1"/>
+<text x="808.0" y="198.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Offspeed</text>
+<rect x="780.0" y="216.0" width="18.0" height="18.0" rx="0" fill="#667085" stroke="none" stroke-width="1"/>
+<text x="808.0" y="230.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">Other</text>
+<text x="780.0" y="280.0" font-size="12" font-weight="600" text-anchor="start" fill="#18212f">Selected pitcher</text>
+<text x="780.0" y="305.0" font-size="13" font-weight="500" text-anchor="start" fill="#18212f">Garrett Crochet</text>
+<text x="780.0" y="338.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">Click a segment →</text>
+<text x="780.0" y="360.0" font-size="12" font-weight="400" text-anchor="start" fill="#667085">highlight pitch type</text>
+<text x="920.0" y="518.0" font-size="11" font-weight="400" text-anchor="end" fill="#667085">Low-fidelity sketch</text>
+</svg>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<title>Pitch-load heatmap</title>
+<rect width="960" height="540" fill="#f8fafc"/>
+<text x="40.0" y="42.0" font-size="24" font-weight="600" text-anchor="start" fill="#18212f">Pitch-load heatmap</text>
+<text x="40.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#667085">RQ1 · Identify within-game workload patterns using cumulative pitch count rather than inning</text>
+<text x="40.0" y="100.0" font-size="13" font-weight="600" text-anchor="start" fill="#18212f">Pitcher</text>
+<text x="320.0" y="100.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">1-25</text>
+<text x="450.0" y="100.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">26-50</text>
+<text x="580.0" y="100.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">51-75</text>
+<text x="710.0" y="100.0" font-size="13" font-weight="600" text-anchor="middle" fill="#18212f">76+</text>
+<text x="235.0" y="140.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Carlos Rodón</text>
+<rect x="255.0" y="118.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="139.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="118.0" width="126.0" height="30.0" rx="2" fill="#637ecc" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="139.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.33 mph</text>
+<rect x="515.0" y="118.0" width="126.0" height="30.0" rx="2" fill="#3a59bb" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="139.0" font-size="12" font-weight="500" text-anchor="middle" fill="#ffffff">+0.84 mph</text>
+<rect x="645.0" y="118.0" width="126.0" height="30.0" rx="2" fill="#1f41af" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="139.0" font-size="12" font-weight="500" text-anchor="middle" fill="#ffffff">+1.19 mph</text>
+<text x="235.0" y="174.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Dylan Cease</text>
+<rect x="255.0" y="152.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="173.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="152.0" width="126.0" height="30.0" rx="2" fill="#708ad1" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="173.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.15 mph</text>
+<rect x="515.0" y="152.0" width="126.0" height="30.0" rx="2" fill="#728cd2" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="173.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.13 mph</text>
+<rect x="645.0" y="152.0" width="126.0" height="30.0" rx="2" fill="#6d87d0" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="173.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.19 mph</text>
+<text x="235.0" y="208.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Freddy Peralta</text>
+<rect x="255.0" y="186.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="207.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="186.0" width="126.0" height="30.0" rx="2" fill="#6a84cf" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="207.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.23 mph</text>
+<rect x="515.0" y="186.0" width="126.0" height="30.0" rx="2" fill="#758fd4" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="207.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.09 mph</text>
+<rect x="645.0" y="186.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="207.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<text x="235.0" y="242.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Garrett Crochet</text>
+<rect x="255.0" y="220.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="241.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="220.0" width="126.0" height="30.0" rx="2" fill="#93aae0" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="241.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.29 mph</text>
+<rect x="515.0" y="220.0" width="126.0" height="30.0" rx="2" fill="#99afe2" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="241.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.36 mph</text>
+<rect x="645.0" y="220.0" width="126.0" height="30.0" rx="2" fill="#8da4dd" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="241.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.21 mph</text>
+<text x="235.0" y="276.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Kevin Gausman</text>
+<rect x="255.0" y="254.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="275.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="254.0" width="126.0" height="30.0" rx="2" fill="#7b94d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="275.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.02 mph</text>
+<rect x="515.0" y="254.0" width="126.0" height="30.0" rx="2" fill="#6681cd" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="275.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.29 mph</text>
+<rect x="645.0" y="254.0" width="126.0" height="30.0" rx="2" fill="#607bcb" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="275.0" font-size="12" font-weight="500" text-anchor="middle" fill="#ffffff">+0.36 mph</text>
+<text x="235.0" y="310.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Logan Webb</text>
+<rect x="255.0" y="288.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="309.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="288.0" width="126.0" height="30.0" rx="2" fill="#a3b7e6" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="309.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.48 mph</text>
+<rect x="515.0" y="288.0" width="126.0" height="30.0" rx="2" fill="#aabee9" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="309.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.58 mph</text>
+<rect x="645.0" y="288.0" width="126.0" height="30.0" rx="2" fill="#b3c6ed" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="309.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.69 mph</text>
+<text x="235.0" y="344.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Max Fried</text>
+<rect x="255.0" y="322.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="343.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="322.0" width="126.0" height="30.0" rx="2" fill="#637ecc" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="343.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.32 mph</text>
+<rect x="515.0" y="322.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="343.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="645.0" y="322.0" width="126.0" height="30.0" rx="2" fill="#99aee2" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="343.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.36 mph</text>
+<text x="235.0" y="378.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Robbie Ray</text>
+<rect x="255.0" y="356.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="377.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="356.0" width="126.0" height="30.0" rx="2" fill="#6b85cf" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="377.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.23 mph</text>
+<rect x="515.0" y="356.0" width="126.0" height="30.0" rx="2" fill="#5e7aca" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="377.0" font-size="12" font-weight="500" text-anchor="middle" fill="#ffffff">+0.38 mph</text>
+<rect x="645.0" y="356.0" width="126.0" height="30.0" rx="2" fill="#526fc5" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="377.0" font-size="12" font-weight="500" text-anchor="middle" fill="#ffffff">+0.54 mph</text>
+<text x="235.0" y="412.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Yusei Kikuchi</text>
+<rect x="255.0" y="390.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="411.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="390.0" width="126.0" height="30.0" rx="2" fill="#8aa1dc" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="411.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.17 mph</text>
+<rect x="515.0" y="390.0" width="126.0" height="30.0" rx="2" fill="#abbfea" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="411.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.59 mph</text>
+<rect x="645.0" y="390.0" width="126.0" height="30.0" rx="2" fill="#a4b9e7" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="411.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.50 mph</text>
+<text x="235.0" y="446.0" font-size="13" font-weight="400" text-anchor="end" fill="#18212f">Zac Gallen</text>
+<rect x="255.0" y="424.0" width="126.0" height="30.0" rx="2" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="318.0" y="445.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">+0.00 mph</text>
+<rect x="385.0" y="424.0" width="126.0" height="30.0" rx="2" fill="#9aafe3" stroke="#f8fafc" stroke-width="1"/>
+<text x="448.0" y="445.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.37 mph</text>
+<rect x="515.0" y="424.0" width="126.0" height="30.0" rx="2" fill="#b8cbef" stroke="#f8fafc" stroke-width="1"/>
+<text x="578.0" y="445.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.76 mph</text>
+<rect x="645.0" y="424.0" width="126.0" height="30.0" rx="2" fill="#bdcff1" stroke="#f8fafc" stroke-width="1"/>
+<text x="708.0" y="445.0" font-size="12" font-weight="500" text-anchor="middle" fill="#18212f">-0.82 mph</text>
+<text x="790.0" y="125.0" font-size="13" font-weight="600" text-anchor="start" fill="#18212f">Color</text>
+<rect x="790.0" y="142.0" width="32.0" height="22.0" rx="0" fill="#cbdcf7" stroke="#f8fafc" stroke-width="1"/>
+<text x="832.0" y="158.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">velocity loss</text>
+<rect x="790.0" y="176.0" width="32.0" height="22.0" rx="0" fill="#7c95d6" stroke="#f8fafc" stroke-width="1"/>
+<text x="832.0" y="192.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">stable</text>
+<rect x="790.0" y="210.0" width="32.0" height="22.0" rx="0" fill="#2e4eb6" stroke="#f8fafc" stroke-width="1"/>
+<text x="832.0" y="226.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">velocity gain</text>
+<text x="790.0" y="275.0" font-size="13" font-weight="600" text-anchor="start" fill="#18212f">Toggle metric</text>
+<text x="790.0" y="301.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">• Fastball velocity Δ</text>
+<text x="790.0" y="325.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">• Secondary usage %</text>
+<text x="790.0" y="349.0" font-size="12" font-weight="400" text-anchor="start" fill="#18212f">• Two-strike Whiff%</text>
+<text x="920.0" y="518.0" font-size="11" font-weight="400" text-anchor="end" fill="#667085">Low-fidelity sketch</text>
+</svg>
